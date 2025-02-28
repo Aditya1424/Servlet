@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="first-web-app:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/first_web_app_jar</output-path>
+    <root id="root">
+      <element id="archive" name="first-web-app.jar">
+        <element id="module-output" name="first-web-app" />
+      </element>
+    </root>
+  </artifact>
+</component>
